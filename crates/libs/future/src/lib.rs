@@ -1,3 +1,4 @@
+#![cfg(target_os = "windows")]
 #![expect(
     missing_docs,
     non_snake_case,
